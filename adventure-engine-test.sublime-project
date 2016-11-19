@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "adventure-engine-test",
+			"path": "/home/alex/Projects/adventure-engine-test"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "/opt/haxe/lib/flixel/4,1,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "/opt/haxe/lib/flixel-addons/2,1,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "/usr/lib/haxe/std"
+		}
+	]
+}
